@@ -1,0 +1,8 @@
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\PPraralela 1\PPraralela 1\obj\Debug\PPraralela 1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\PPraralela 1\PPraralela 1\obj\Debug\PPraralela 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\PPraralela 1\PPraralela 1\obj\Debug\PPraralela 1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\PPraralela 1\PPraralela 1\bin\Debug\PPraralela 1.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\PPraralela 1\PPraralela 1\bin\Debug\PPraralela 1.exe
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\PPraralela 1\PPraralela 1\bin\Debug\PPraralela 1.pdb
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\PPraralela 1\PPraralela 1\obj\Debug\PPraralela 1.exe
+C:\Users\Usuario\Documents\Visual Studio 2022\Proyectos\PPraralela 1\PPraralela 1\obj\Debug\PPraralela 1.pdb
